@@ -2,6 +2,57 @@
 
 # Project #3: MERN Stack - Group Project
 
+### Squad 1: Joe/Ira
+
+#### Group 1:
+
+- Leeanne Hammond
+- Chris Murphy
+- Phi Huynh
+- Nancy Schrader
+
+#### Group 2:
+
+- Heather Spoelstra
+- Dejay Odujoko
+- Kevin Lai
+- Jose Rodriguez
+
+
+### Squad 2: Paul
+
+#### Group 3:
+
+- Andrei Huiban
+- Jake Brenneman
+- Aarik Robles
+- Jay Glickman
+
+
+#### Group 4:
+
+- Chris South
+- Marco Riesgo
+- Loganne Featherston
+
+
+### Squad 3: Jordan
+
+#### Group 5:
+
+- Matt Holmberg
+- Scott Horan
+- Tony Cabezon
+
+
+#### Group 6:
+
+- Dan McMahon
+- Charlie Humphrey
+- Tara Young
+
+
+
 ## Attendance
 
 We will not be teaching any new lessons during project weeks, but attendance will be taken at the beginning of Tuesday and Wednesday's lesson, and at the beginning and middle (after lunch) for Saturday's lesson.
