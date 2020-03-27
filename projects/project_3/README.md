@@ -149,7 +149,7 @@ Before you begin coding, make new GitHub repos for your project. _Take the follo
 
 5. Make sure your `server.js` and `package.json` are in the **root** of your project repository
 
-[Here](/unit_3/w16d3/instructor_notes/Create%20React%20App%20%26%20Heroku.md) is a link to client side setup for deployment of your React app.
+[Here](frontend_deploy.md) is a link to client side setup for deployment of your React app.
 
 <!-- <details><summary> Expected File Structure </summary>
 
