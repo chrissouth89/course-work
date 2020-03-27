@@ -132,7 +132,7 @@ This is especially true when working with Amazon Web Services (AWS). Here's an e
 
 ## Make New Repos & Setup for Heroku Deployment
 
-Before you begin coding, make new GitHub repos for your project. _Take the following steps to ensure you have the right set up in order to deploy your site to Heroku. If you need a reminder on deploying a server to Heroku, look at the [deployment notes](/unit_3/w16d3/instructor_notes/heroku.md)_
+Before you begin coding, make new GitHub repos for your project. _Take the following steps to ensure you have the right set up in order to deploy your site to Heroku. If you need a reminder on deploying a server to Heroku, look at the deployment notes_
 
 :heavy_exclamation_mark: You will be using GitHub, **not** GitHub Enterprise!
 
