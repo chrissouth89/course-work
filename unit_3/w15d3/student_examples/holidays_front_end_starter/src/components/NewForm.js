@@ -10,6 +10,8 @@ class NewForm extends React.Component {
       event.preventDefault()
       // Send the data to the server
       fetch(this.props.baseURL + '/holidays', {
+          // calls the http://localhost:3003/holidays POST route
+          // holidays.post("/",)
           method: 'POST',
           body: JSON.stringify({
               name: this.state.name
@@ -20,7 +22,9 @@ class NewForm extends React.Component {
       .then( res => res.json())
       .then(resJson => {
         // add the received data to state in App
+        // aka...lifting state
         this.props.handleAddHoliday(resJson)
+        // this clears the form
         this.setState({name:''})
       }).catch (error => console.error({'Error': error}))
 
