@@ -2,15 +2,68 @@
 
 # Project #3: MERN Stack - Group Project
 
+### Squad 1: Joe/Ira
+
+#### Group 1:
+
+- Leeanne Hammond
+- Chris Murphy
+- Phi Huynh
+- Nancy Schrader
+
+#### Group 2:
+
+- Heather Spoelstra
+- Dejay Odujoko
+- Kevin Lai
+- Jose Rodriguez
+
+
+### Squad 2: Paul
+
+#### Group 3:
+
+- Andrei Huiban
+- Jake Brenneman
+- Aarik Robles
+- Jay Glickman
+
+
+#### Group 4:
+
+- Chris South
+- Marco Riesgo
+- Loganne Featherston
+
+
+### Squad 3: Jordan
+
+#### Group 5:
+
+- Matt Holmberg
+- Scott Horan
+- Tony Cabezon
+
+
+#### Group 6:
+
+- Dan McMahon
+- Charlie Humphrey
+- Tara Young
+
+
+
 ## Attendance
 
 We will not be teaching any new lessons during project weeks, but attendance will be taken at the beginning of Tuesday and Wednesday's lesson, and at the beginning and middle (after lunch) for Saturday's lesson.
 
 A brief overview of key dates during project week:
 
-**DATE**: Project pitches will happen before the end of class (10:00pm ET).
+**Saturday 3/28/20**: Project approvals will start before the end of class.
 
-**DATE**: Project presentation day! We will be meeting at our regular 10:00 AM (ET) class time. Presentations will start at 3:00 PM (ET).  Please note: there will be a lengthy install and intro (Ruby, Rails, Postgres) after presentations.
+**Tuesday 3/31/20**: Finish project approvals and start working on projects.
+
+**Tuesday 4/7/20**: Project presentation day! We will be meeting at our regular class time. Presentations will start at around 7:30 PM (ET).
 
 ## Stand-ups
 
@@ -41,14 +94,16 @@ For this project, you will be making another full CRUD app using the technologie
 * At least _one model_ with full **CRUD**.
 * At least 3 commits per group member
 * Include **at least one** of the following features:
-    - Authorization
-      - Include **sign up/log in** functionality, with encrypted passwords & an authorization flow. OAuth and a secure JWT implementation are other options, but would require more investigation.
     - Pull from a third party API - either client side with AJAX or server-side with an NPM package
       - NPM packages that work with an API: Twitter, Yelp, etc.  Remember the `request` module can make API calls server side to any URL.  
     - Have three models
       - Have three separate models that don't have to be related (e.g. fruits, vegetables, and meats)
     - Have related models
       - Models can be related in a one-to-many relationship, for example users can have many posts
+    - Authorization (Advanced bonus option)
+      - Include **sign up/log in** functionality, with encrypted passwords & an authorization flow. OAuth and a secure JWT implementation are other options, but would require more investigation.
+      - This is going to require a lot of extra research if you choose to take this on.
+
 * **Be deployed online** and accessible to the public via **Heroku**
 * :heavy_exclamation_mark: **Two SEPARATE** git repositories (client and server) **not inside the class repo**.  
    - *At least* one GitHub commit per day *per person*.
@@ -77,7 +132,7 @@ This is especially true when working with Amazon Web Services (AWS). Here's an e
 
 ## Make New Repos & Setup for Heroku Deployment
 
-Before you begin coding, make new GitHub repos for your project. _Take the following steps to ensure you have the right set up in order to deploy your site to Heroku. If you need a reminder on deploying a server to Heroku, look at the [deployment notes](/unit_3/w16d3/instructor_notes/heroku.md)_
+Before you begin coding, make new GitHub repos for your project. _Take the following steps to ensure you have the right set up in order to deploy your site to Heroku. If you need a reminder on deploying a server to Heroku, look at the deployment notes_
 
 :heavy_exclamation_mark: You will be using GitHub, **not** GitHub Enterprise!
 
@@ -94,7 +149,7 @@ Before you begin coding, make new GitHub repos for your project. _Take the follo
 
 5. Make sure your `server.js` and `package.json` are in the **root** of your project repository
 
-[Here](/unit_3/w16d3/instructor_notes/Create%20React%20App%20%26%20Heroku.md) is a link to client side setup for deployment of your React app.
+[Here](frontend_deploy.md) is a link to client side setup for deployment of your React app.
 
 <!-- <details><summary> Expected File Structure </summary>
 
@@ -105,7 +160,7 @@ Before you begin coding, make new GitHub repos for your project. _Take the follo
 
 ## Project Pitches
 
-Everyone must pitch their Project 3 idea before the end of class on Wednesday, June 26. This presentation must:
+Everyone must pitch their Project 3 idea by Tuesday 3/31/20. This presentation must:
 
 - Be less than 1 minute
 - Address the "problem to be solved" as described above
@@ -115,7 +170,7 @@ Everyone must pitch their Project 3 idea before the end of class on Wednesday, J
 
 ## Project Assignment and Roles
 
-Once everyone has pitched their idea, every student will vote on their 1st, 2nd, and 3rd choice for which group they would work on **assuming they couldn't work on their idea** (please, please, please don't vote for yourself, it just makes the tallying harder). Once the top 4 ideas are selected, we will assign the remaining students to one of their choices.
+Teams will be announced on Saturday 3/28/20.
 
 Once teams are set, groups should decide upon the following roles. Everyone must have **at least one** of these roles, but smaller groups will have a member with two roles. We **do not advise one person to be both release manager and product manager**, as it is a direct conflict of interest ("let's get those features out--no, we need to make sure the code is clean first!").
 
@@ -138,16 +193,16 @@ All projects will be presented to the class.  Your presentation should:
 
 Additionally, *each* group member must talk, and must answer *at least one* of the following questions:
 
-1) What went well for your group?
-2) What was your group's biggest struggle?
-3) What was the most useful tool that your group relied on the most?
-4) What was the most surprising aspect of working in a group?
+1. What went well for your group?
+2. What was your group's biggest struggle?
+3. What was the most useful tool that your group relied on the most?
+4. What was the most surprising aspect of working in a group?
 
 You will be sharing your app and your code.  Be prepared to answer questions from the instructors and other students.  *All group members should speak during presentation*.
 
 ## Project Approval
 
-**DATE - Mandatory**<br>
+**Saturday 3/28/20 or Tuesday 3/31/20 - Mandatory**<br>
 Your group will meet with your dedicated project instructor for ~15 minutes to get your app idea approved. Be sure to write out what features you will need to build in order to meet MVP and some stretch goal ideas. Come prepared with:
 
 - A repo with a `README` for the back end
@@ -156,7 +211,7 @@ Your group will meet with your dedicated project instructor for ~15 minutes to g
 - A role assignment for all group members (at least one)
 
 ## How to Submit Your Project
-Your project is due on DATE at 3:00 pm ET. Your group will present your project and show your code to classmates and instructors.
+Your project is due on Tuesday 4/7/20 at 6:30 pm ET. Your group will present your project and show your code to classmates and instructors.
 
 ## Where to go for help during project week
 1. Seek out help online
