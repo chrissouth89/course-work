@@ -37,7 +37,7 @@ const corsOptions = {
   }
 };
 
-app.use(cors(corsOptions));
+app.use(cors());
 
 // /holidays/ routes
 app.use("/holidays", holidaysController);
