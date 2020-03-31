@@ -48,7 +48,7 @@ Cool, we have a fully functional animal shelter website going! But it allows any
 1. Create a `users` controller with a route to `post` a new user 	
 1. Create a `sessions` controller with a route to `post` a new session and `delete` a session
 
-#### Optional Challenge Bonus:
+#### Optional Challenge Bonus (NOT REQUIRED):
 1. Now let's start connecting it with the front-end
 1. Add another form component, this time to create a new user 	
 1. Add the necessary `fetch` request and methods for updating state
