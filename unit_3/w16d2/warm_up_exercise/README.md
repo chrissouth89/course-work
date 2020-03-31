@@ -21,7 +21,7 @@ If you are near or below the 80% passing line, you need to take the time between
 
 ## Authentication
 
-You will need some sort of authentication for Project 3.  We advise one of the team members, and only one of the team members, to work through the authentication section of the previous lesson's Animal Shelter lab.
+You will optionally need some sort of authentication for Project 3.  We advise one of the team members, and only one of the team members, to work through the authentication section of the previous lesson's Animal Shelter lab.
 
 ## Prepping for Approval
 
