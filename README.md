@@ -133,7 +133,7 @@ Let's all agree to:
 - Take ownership of your experience
 - Check your ego at the door
 - Empathy for your fellow students and support staff
-- Be courteous calm and patient with others. Don't let the stress get to you!
+- Be courteous calm and patient with others, and ourselves! Don't let the stress get to you!
 - Don't compare yourself to others, compare yourself to who you were yesterday
 
 ### Mentorship / Collaborative Culture in the Classroom
