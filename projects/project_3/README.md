@@ -15,7 +15,6 @@
 
 - Heather Spoelstra
 - Dejay Odujoko
-- Kevin Lai
 - Jose Rodriguez
 
 
