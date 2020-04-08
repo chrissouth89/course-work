@@ -219,7 +219,7 @@ We will be using breakout rooms to get more personalized learning environments. 
 | **w16d3** Tues 3/31 & Weds 4/1 |[Project Approvals](./projects/project_3)| [Project Approvals](./projects/project_3), [React Router](./unit_3/w16d3/react_router) and Git Workflow (see video) | Project 3 |[Project 3](./projects/project_3)| [Recording Tuesday - Includes git workflow @ ~1:40:00](https://generalassembly.zoom.us/rec/share/4dcud-ro8GBOGoWO6RHSZ7EuXY64X6a80XQb-fYPz0baTsAWtCqWCdq8FDcodels)
 | w17d1 | [**Project 3**](./projects/project_3)|
 | w17d2 | **Project 3**|
-| w17d3 | **Project 3 Presentations** |[Install Ruby, Rails, Postgres](./unit_4/w17d3)| | [Finish "Must Have" Section of Ruby Tutorials](./unit_4/w17d3/homework) |
+| w17d3 | **Project 3 Presentations** |[Install Ruby, Rails, Postgres](./unit_4/w17d3), [Binary Search]()| | [Finish "Must Have" Section of Ruby Tutorials](./unit_4/w17d3/homework) | [Recording Tues (including presentations)](https://generalassembly.zoom.us/rec/share/z-5kKqqs7z5ObI3wt3mABZ4eEa_MX6a81XUW-_NYxUp_r-k5LDxy1Z4rS5mRuYyU)
 
 ## Unit 4
 
