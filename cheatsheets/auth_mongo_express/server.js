@@ -9,14 +9,14 @@ app.use(
   session({
     secret: "feedmeseymour", //some random string
     resave: false,
-    saveUninitialized: false
+    saveUninitialized: false,
   })
 );
 app.use(methodOverride("_method"));
 
 mongoose.connect("mongodb://localhost:27017/authexampleapp", {
   useNewUrlParser: true,
-  useUnifiedTopology: true
+  useUnifiedTopology: true,
 });
 mongoose.connection.once("open", () => {
   console.log("connected to mongo");
@@ -32,7 +32,7 @@ app.get("/app", (req, res) => {
 
 app.get("/", (req, res) => {
   res.render("index.ejs", {
-    currentUser: req.session.currentUser
+    currentUser: req.session.currentUser,
   });
 });
 
