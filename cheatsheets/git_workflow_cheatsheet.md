@@ -14,15 +14,19 @@ Use this workflow when working with teams to take advantage of Pull Requests and
 In the future, you don't need the `-b` for this git repo, that is just to create a NEW branch if it doesn't exist in this repo.
 
 ### Switch branches:
+
 - `git checkout master` Switches to the master branch
 - `git checkout ira` Switches to the ira branch
 - etc
 
 ### How to work:
-Make updates on your branch and some git commits. When you're ready to merge into the master, do this:
+Make updates on your branch and **some git commits**. When you're ready to merge into the master, do this:
 
 ### Push your branch up to github
-`git push origin ira`
+
+- `git add -A`
+- `git commit -m "your message here"`
+- `git push origin ira`
 
 In github's web interface, **Create a PR (Pull Request)**.
 
