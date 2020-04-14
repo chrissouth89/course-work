@@ -217,17 +217,17 @@ We will be using breakout rooms to get more personalized learning environments. 
 | **w16d1** Sat 3/28 AM |[Binary Search](./unit_3/w16d1/warm_up_exercise)| [MERN Stack Show, Update, and Delete](./unit_3/w16d1/instructor_notes)| [Animal Shelter Pt 2](./unit_3/w16d1/student_labs)|[](./unit_3/w16d1/homework)|
 | **w16d2** Sat 3/28 PM |[Project 3 Prep](./unit_3/w16d2/warm_up_exercise)| | [Project Pitches](./projects/project_3)|Finish Animal Shelter (required) & [Bookmarks (Optional bonus)](./unit_3/w15d3/homework)| [Recording Sat](https://generalassembly.zoom.us/rec/share/1elpdZzrqH1LRp3utBiAAowNPb30aaa81XAf__Zfz0iJZ92wIrQbPSIo90NqoQta)
 | **w16d3** Tues 3/31 & Weds 4/1 |[Project Approvals](./projects/project_3)| [Project Approvals](./projects/project_3), [React Router](./unit_3/w16d3/react_router) and Git Workflow (see video) | Project 3 |[Project 3](./projects/project_3)| [Recording Tuesday - Includes git workflow @ ~1:40:00](https://generalassembly.zoom.us/rec/share/4dcud-ro8GBOGoWO6RHSZ7EuXY64X6a80XQb-fYPz0baTsAWtCqWCdq8FDcodels)
-| w17d1 | [**Project 3**](./projects/project_3)|
-| w17d2 | **Project 3**|
-| w17d3 | **Project 3 Presentations** |[Install Ruby, Rails, Postgres](./unit_4/w17d3), [Binary Search]()| | [Finish "Must Have" Section of Ruby Tutorials](./unit_4/w17d3/homework) | [Recording Tues (including presentations)](https://generalassembly.zoom.us/rec/share/z-5kKqqs7z5ObI3wt3mABZ4eEa_MX6a81XUW-_NYxUp_r-k5LDxy1Z4rS5mRuYyU)
+| **w17d1** | [**Project 3**](./projects/project_3)|
+| **w17d2** | **Project 3**|
+| **w17d3** Tues 4/7 & Weds 4/8 | **Project 3 Presentations** |[Install Ruby, Rails, Postgres](./unit_4/w17d3), [Binary Search]()| | [Finish "Must Have" Section of Ruby Tutorials](./unit_4/w17d3/homework) | [Recording Tues (including presentations)](https://generalassembly.zoom.us/rec/share/z-5kKqqs7z5ObI3wt3mABZ4eEa_MX6a81XUW-_NYxUp_r-k5LDxy1Z4rS5mRuYyU) - [Recording Weds](https://generalassembly.zoom.us/rec/play/tJUkcu39-G03GNXEtQSDVv8qW47sfPmshnQWrvRcz0-1VCMKMAakYroVMeHBanelkOCvclbq4lkLwYzV?continueMode=true&_x_zm_rtaid=JtcMlwr-QJO8bFBdrnV8FQ.1586842143185.6199866dbcf5a4dd9af1604e63d3afe5&_x_zm_rhtaid=763)
 
 ## Unit 4
 
-| Day | Warm Up Exercise | Lectures | Labs | Homework |
-|:---:|:-----------:|:-------:|:-----------:|:-----------:|
-| w18d1 |[Sass](./unit_4/w18d1/warm_up_exercise)| [Intro to Ruby](./unit_4/w18d1/instructor_notes)| [Look at the differences](./unit_4/w18d1/student_labs)|[](./unit_4/w18d1/homework)|
-| w18d2 |[](./unit_4/w18d2/warm_up_exercise)| [Ruby Blocks, Enumerables](./unit_4/w18d2/instructor_notes)| [Look at the differences cont.](./unit_4/w18d2/student_labs)|[Ruby Basics](./unit_4/w18d2/homework)|
-| w18d3 |[Sass Practice](./unit_4/w18d3/warm_up_exercise)| [Ruby Method Teachbacks](./unit_4/w18d3/instructor_notes)| [Ruby Drills](./unit_4/w18d3/student_labs)|[Ruby Blackjack](./unit_4/w18d3/homework)|
+| Day | Warm Up Exercise | Lectures | Labs | Homework | Recording |
+|:---:|:-----------:|:-------:|:-----------:|:-----------:|:--:|
+| **w18d1** Sat 4/11 |[Sass](./unit_4/w18d1/warm_up_exercise)| [Intro to Ruby](./unit_4/w18d1/instructor_notes)| [Look at the differences](./unit_4/w18d1/student_labs)|[](./unit_4/w18d1/homework)|
+| **w18d2** Sat 4/11 |[](./unit_4/w18d2/warm_up_exercise)| [Ruby Blocks, Enumerables](./unit_4/w18d2/instructor_notes)| [Look at the differences cont.](./unit_4/w18d2/student_labs)|[Ruby Basics](./unit_4/w18d2/homework)| [Recording Sat - Password: `p7#96p#@)`](https://generalassembly.zoom.us/rec/share/-t5ECrzWqTJIZpXS9VqHQJwdPMPAaaa8gCBPrvsOzkymPy1eS-mkbYPd5fRJSfak)
+| **w18d3** Tues 4/14 & Weds 4/15 |[Sass Practice](./unit_4/w18d3/warm_up_exercise)| [Ruby Method Teachbacks](./unit_4/w18d3/instructor_notes)| [Ruby Drills](./unit_4/w18d3/student_labs)|[Ruby Blackjack](./unit_4/w18d3/homework)|
 | w19d1 |[](./unit_4/w19d1/warm_up_exercise)| [SQL Basics](./unit_4/w19d1/instructor_notes)| [Computers and Televisions](./unit_4/w19d1/student_labs)|[](./unit_4/w19d1/homework)|
 | w19d2 |[Luhn Revisit](./unit_4/w19d2/warm_up_exercise)| [SQL Basics cont.](./unit_4/w19d2/instructor_notes)| [Airports](./unit_4/w19d2/student_labs)|[Carmen, NFL](./unit_4/w19d2/homework)|
 | w19d3 |[SQL Zoo](./unit_4/w19d3/warm_up_exercise)| [Intro to Rails API](./unit_4/w19d3/instructor_notes)| [Migrations, Q&A](./unit_4/w19d3/student_labs)|[Glitch in the Matrix](./unit_4/w19d3/homework)|
