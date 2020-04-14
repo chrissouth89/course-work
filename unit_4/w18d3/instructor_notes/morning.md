@@ -21,7 +21,7 @@ This morning you will each get a Ruby method to explore. Your job is to look in 
 
 You'll have 15 minutes to research and prepare. You will then take turns sharing your screen and presenting your findings to the class. When you are not presenting, it's your job to listen, learn, take notes, and ask questions.
 
-[Google Sheet with assignments](https://docs.google.com/spreadsheets/d/1i1wq-XWrZEn_kTocvkTqegZnW2hIJv6l5oKO_q3Mbdo/edit#gid=0)
+[Google Sheet with assignments](https://docs.google.com/spreadsheets/d/1i1wq-XWrZEn_kTocvkTqegZnW2hIJv6l5oKO_q3Mbdo/edit#gid=1481804986)
 
 [String](http://ruby-doc.org/core-2.5.5/String.html)
 
