@@ -27,7 +27,7 @@ Spend the last 5 minutes showing off your calculator to your classmates!
 - `mkdir css`
 - `touch css/main.scss`
 - start a new tab
-  - `sass --watch css/main.scss`
+  - `sass --watch css/main.scss css/styles.css`
   - some new files should generate, including `main.css` (inside your css folder)
 - add some html boilerplate to your `index.html`
 - link your `main.css` file to your `index.html`
