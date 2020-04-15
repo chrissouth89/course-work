@@ -6,7 +6,7 @@ Competencies: Basic Ruby and Classes<br>
 
 # IMPORTANT - BEFORE YOU START
 
-In one of the next two classes, we will have a warm-up activity on linked lists. Make sure you finish the following MyGA sections before the next lesson:
+Make sure you finish the following MyGA sections before the next lesson:
 
 - [Intro to Data Structures](https://my.generalassemb.ly/activities/878?assignmentUuid=0168fa09-b9c7-4a73-bc09-ecdfe12fd51a) - 15 mins
 - [Linked Lists](https://my.generalassemb.ly/activities/397?from=dashboard&assignmentUuid=0168fa09-b9c7-4a73-bc09-ecdfe12fd51a) - 30 mins
