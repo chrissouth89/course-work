@@ -2,6 +2,7 @@ Title: Ruby Objects and Classes<br>
 Creator: Thom Page <br>
 Updates: Karolin Rafalski <br>
 Competencies: Basic Ruby<br>
+~2hrs
 
 ---
 
