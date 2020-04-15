@@ -1,4 +1,4 @@
-![ga](http://mobbook.generalassemb.ly/ga_cog.png)
+![ga](../../../ga_cog.png)
 
 ---
 Title: Ruby classes <br>
